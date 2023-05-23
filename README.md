@@ -1,2 +1,2 @@
 # little-lemon
-Little Lemon Mediterranean Cuisine in Chicago
+This is Little Lemon's website, a restaurant serving Mediterranean Cuisine in Chicago.
